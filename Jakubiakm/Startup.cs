@@ -46,7 +46,7 @@ namespace Jakubiakm
             };
             app.UseRequestLocalization(new RequestLocalizationOptions
             {
-                DefaultRequestCulture = new RequestCulture("en-US"),
+                DefaultRequestCulture = new RequestCulture("pl-PL"),
                 SupportedCultures = supportedCultures,
                 SupportedUICultures = supportedCultures
             });

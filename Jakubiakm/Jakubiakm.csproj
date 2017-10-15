@@ -10,6 +10,8 @@
 
   <ItemGroup>
     <Content Include="wwwroot\images\pl_flag.svg" />
+    <Content Include="wwwroot\images\Views\Shared\facebook.svg" />
+    <Content Include="wwwroot\images\Views\Shared\linkedin.svg" />
     <Content Include="wwwroot\images\Views\Shared\pl_flag.svg" />
     <Content Include="wwwroot\images\Views\Shared\us_flag.svg" />
   </ItemGroup>
